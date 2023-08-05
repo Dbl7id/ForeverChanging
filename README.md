@@ -5,6 +5,8 @@
 As the name suggests this is a mod pack that will forever either just update or change
 I cannot update the mods to a later version of minecraft unless all available mods 
 start supporting 1.X.X version of minecraft.
+(Will add images for the other mods later maybe.)
+
 
 
 # Mods
