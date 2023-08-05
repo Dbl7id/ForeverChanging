@@ -6,6 +6,7 @@ As the name suggests this is a mod pack that will forever either just update or 
 I cannot update the mods to a later version of minecraft unless all available mods 
 start supporting 1.X.X version of minecraft.
 
+
 # Mods
 ## Biome and Dimension Mods
 These are mods that are centered around adding new dimensions or biomes to go and explore.
@@ -51,6 +52,7 @@ Your new tools will bring unique improvements that will help you to survive. The
 </p>
 
 
+
 ## Combat, Weapon, and Tool Mods
 These are mods that are centered or only add combat-related items or tools.
 ### Better Combat
@@ -71,6 +73,7 @@ Adds war-hammers.
 ### Multitool
 Combines all the tools into a Multitool. The modpack uses a custom version of the mod with added support for all available tools in the modpack.
 You can craft the Multitool using the pickaxe, axe, shovel, and hoe of a specific material. (e.g. Diamond, Netherite, C
+
 
 
 ## Variety Mods
@@ -102,6 +105,7 @@ This mod adds one new block, called the Culinary Station, that lets you craft yo
 
 ### Duckling
 Adds some quacky little friends!
+
 
 
 ## QoL and Feature Mods (Quality of Life)
@@ -169,3 +173,15 @@ Adds a minimap and world map.
 ### Zoomify
 Zoom
 
+
+
+## Renderers
+For the most part, the rendering backend should be up to your own personal taste or need.
+If you have any problems with one renderer then just choose the other one.
+
+### Sodium
+A powerful optimization mod that completely rewrites most vanilla rendering code to be as fast as possible with no compromises.
+Allows the usage of shaders through the mod Iris.
+
+### Canvas
+A full rendering backend rewrite, that while not as fast as Sodium, is still more optimized than vanilla. Aims more to make aesthetic rendering practical rather than full performance.
