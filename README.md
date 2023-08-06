@@ -16,9 +16,7 @@ These are mods that are centered around adding new dimensions or biomes to go an
 Oh The Biomes You'll Go is an exploration and adventure mod designed to take you on a road trip across Minecraft like no other! 
 **Explore over 80 magical, realistic, and breathtaking biomes.**
 
-<p align="center">
-  <img src="https://i.imgur.com/BXyt5Iv.png"  height="400">
-</p>
+![](https://i.imgur.com/BXyt5Iv.png)
 
 ### Better End
 **BetterEnd** adds new biomes into the End. Each biome has its own atmosphere, resources and mobs. The sky will have a fresh look with purple nebulas and stars. 
@@ -26,32 +24,24 @@ All biomes have custom music (by Firel), sounds and effects to make them alive a
 BetterEnd has a custom End generator and custom structures for the Central Island. With our new generator End islands will have different shapes, terrain, will be on different height.
 Inside islands you can find caves with unique resources.
 
-<p align="center">
-  <img src="https://cdn-raw.modrinth.com/data/gc8OEnCC/images/d903ddf62542142b8d09ad13349ca61aa2013994.jpeg"  width="1000">
-</p>
+![](https://cdn-raw.modrinth.com/data/gc8OEnCC/images/d903ddf62542142b8d09ad13349ca61aa2013994.jpeg)
 
 ### Better Nether
 With **BetterNether** your adventures in the fiery dimension will be even more exciting. The mod adds new biomes, plants and materials to the Nether. 
 Among them there are new challenging monsters like the Naga, or dark dungeons where the creatures of Nether have taken over. 
 Your new tools will bring unique improvements that will help you to survive. There are a lot of unique new blocks for builders together with variants of old familiar vanilla blocks.
 
-<p align="center">
-  <img src="https://cdn-raw.modrinth.com/data/MpzVLzy5/images/61ddb1483ae5d83f4cacb30dd5ec6f217f8b2669.jpeg"  width="1000">
-</p>
+![](https://cdn-raw.modrinth.com/data/MpzVLzy5/images/61ddb1483ae5d83f4cacb30dd5ec6f217f8b2669.jpeg)
 
 ### Ad Astra
 **Ad Astra**! (translation: "To the Stars!") is a space mod for Fabric and Forge with a focus on technology, travel and exploration. We've got everything you need to become an astronaut: rockets, space suits, space stations and machines. Why not take a stroll on the Moon? Build a self-sustaining bunker on Mars? Go mining on Venus? The entire Solar System, better yet, Milky Way, is at your disposal!
 
-<p align="center">
-  <img src="https://cdn-raw.modrinth.com/data/3ufwT9JF/images/e906c30339fd7e05e40bf350854c87ccbc9b53b0.png"  height="400">
-</p>
+![](https://cdn-raw.modrinth.com/data/3ufwT9JF/images/e906c30339fd7e05e40bf350854c87ccbc9b53b0.png)
 
 ### Twilight Forest
 **Twilight Forest** is a dimension exploration mod focused on adventure that will take you on a journey to meet strange creatures, exploring dungeons, and much more.
 
-<p align="center">
-  <img src="https://i.imgur.com/0Bq1kOV.png"  height="400">
-</p>
+![](https://i.imgur.com/0Bq1kOV.png)
 
 
 
